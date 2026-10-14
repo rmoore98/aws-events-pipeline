@@ -1,4 +1,5 @@
-# aws-events-pipeline
-**Status: In progress.** Data generation and S3 upload are done. Next: Glue crawler and Athena queries.
+# AWS Events Pipeline
 
-Batch pipeline on AWS: JSON event logs in S3, cataloged with Glue, queried with Athena.
+Batch pipeline on AWS: JSON event logs in S3, cataloged with AWS Glue, queried with Amazon Athena.
+
+**Status: In progress.** Data generation script is done. Next: upload to S3, Glue crawler, and Athena queries.
